@@ -9,3 +9,7 @@ Each folder contains the following:
 * Screenshots of the maps (since the widgets don't render in a static notebook).
 
 Each script can theoretically be used with any GTFS feed, but there are two main limitations. First, the script does not fix a feed if it has preexisting errors. Second, the loading location in each config is set for the feeds used for this project.
+
+### GEOG 6180 Assignments
+
+The assignments folder contains several scripts that I wrote to complete "classic" spatial analyses such as calculating the distance between two points or determing slope/aspect from a DEM. The assignments were intended to demonstrate the basic structure behind each analysis and thus use relatively basic inputs. 
